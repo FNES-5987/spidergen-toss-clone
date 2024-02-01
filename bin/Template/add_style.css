@@ -1,0 +1,27 @@
+
+.hidden_view
+{
+	opacity: 0 !important;
+     transition: opacity 2s ease-in-out !important;
+}
+.hidden_view.visible
+{
+	opacity: 1 !important;
+}
+
+.scroll_effect
+{
+	opacity: 0 !important;
+    transform: translate3d(0px, 50px, 0px) !important;
+}
+.scroll_effect.visible
+{
+	opacity: 1 !important;
+    transform: translate3d(0px, 0px, 0px) !important;
+}
+.scroll_effect.visible:not(.in-view)
+{
+	opacity: 1 !important;
+    transform: translate3d(0px, 0px, 0px) !important;
+}
+

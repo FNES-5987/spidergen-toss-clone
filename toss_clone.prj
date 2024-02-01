@@ -46,6 +46,14 @@
             "relType": 1,
             "path": "Template\\",
             "comment": ""
+          },
+          {
+            "type": 4,
+            "name": "add_style.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
           }
         ]
       },
@@ -65,6 +73,48 @@
               {
                 "type": 8,
                 "name": "toss_logo.jpg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "new_main.png",
+                "relType": 1,
+                "path": "..\\..\\..\\Desktop\\"
+              },
+              {
+                "type": 8,
+                "name": "applekorea.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "googleplay.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "iPhone12_Clay_Shadow.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_1_home_01.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_1_home_02.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_2_01.png",
                 "relType": 1,
                 "path": ""
               }

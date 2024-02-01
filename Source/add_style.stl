@@ -1,0 +1,7 @@
+{
+  "styleName": "add_style",
+  "items": {
+    "hidden_view": ".hidden_view\n{\n\topacity: 0;\n     transition: opacity 2s ease-in-out;\n}\n.hidden_view.visible\n{\n\topacity: 1;\n}",
+    "scroll_effect": ".scroll_effect\n{\n\topacity: 0;\n    transform: translate3d(0px, 50px, 0px);\n}\n.scroll_effect.visible\n{\n\topacity: 1;\n    transform: translate3d(0px, 0px, 0px);\n}\n.scroll_effect.visible:not(.in-view)\n{\n\topacity: 1;\n    transform: translate3d(0px, 0px, 0px);\n}"
+  }
+}
