@@ -1,0 +1,6 @@
+{
+  "styleName": "pretendard",
+  "items": {
+    "Pretendard": "\n@font-face {\n\tfont-family: 'Pretendard' !no;\n\tsrc: url('Assets/Pretendard-1.3.9/public/variable/PretendardVariable.ttf');\n\n}\n"
+  }
+}
