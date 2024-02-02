@@ -288,6 +288,12 @@
                 "name": "tempsnip3.png",
                 "relType": 1,
                 "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section4_device.jpg",
+                "relType": 1,
+                "path": ""
               }
             ]
           }
