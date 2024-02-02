@@ -294,6 +294,36 @@
                 "name": "section4_device.jpg",
                 "relType": 1,
                 "path": ""
+              },
+              {
+                "type": 8,
+                "name": "icn-blog.svg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "icn-facebook.svg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "icn-instagram.svg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "icn-naver.svg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "icn-twitter.svg",
+                "relType": 1,
+                "path": ""
               }
             ]
           }
