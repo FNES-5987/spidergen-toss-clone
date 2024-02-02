@@ -21,7 +21,16 @@
         "type": 1,
         "name": "Library",
         "action": 2,
-        "children": []
+        "children": [
+          {
+            "type": 2,
+            "name": "Version.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Library\\",
+            "comment": ""
+          }
+        ]
       },
       {
         "type": 1,
@@ -177,6 +186,78 @@
                 "name": "toss_logo.jpg",
                 "relType": 1,
                 "path": "image\\"
+              },
+              {
+                "type": 8,
+                "name": "section1_5_stock_01.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_5_stock_02.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_5_stock_03.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_5_stock_04.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_5_stock_05.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_5_stock_06.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_5_stock_07.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section1_5_stock_08.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section2_4_big.jpg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section2_1_document.jpg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section2_2_insu_01.jpg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section2_2_insu_02.jpg",
+                "relType": 1,
+                "path": ""
               }
             ]
           }
