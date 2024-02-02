@@ -449,9 +449,9 @@
                             </div>
                         </div>
                     </div>
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; margin-bottom: 220px; position: relative; height: auto; top: 0px; left: 0px;">
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; margin-bottom: 220px; position: relative; height: auto; top: 0px; left: 0px; margin-left: 0px;">
                         <div style="position: relative; box-sizing: border-box; flex: 2 1 auto; align-self: auto;">
-                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="position: relative; left: 0px; top: 0px; margin-right: 40px; flex-flow: column nowrap; align-items: stretch;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="position: relative; left: 0px; top: 0px; margin-right: 40px; flex-flow: column nowrap; align-items: stretch; width: auto; height: auto;">
                                 <div style="position: relative; box-sizing: border-box;">
                                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="flex-shrink: 0; width: 100%; margin-bottom: 40px; position: relative; height: 100%; left: 0px; top: 0px;" src="Assets/image/section2_2_insu_01.jpg">
                                 </div>
@@ -499,6 +499,117 @@
                                     </label>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-base="AView" data-class="AView" class="AView-Style" style="position: relative;     width: 100%;     overflow: hidden;     background-color: #f9fafb;" id="MainView--section8" data-group="section">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; margin-right: auto; margin-left: auto; max-width: 1140px; padding: 250px 0px; position: relative; background-color: rgba(0, 0, 0, 0);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 92%; height: 100%; position: relative; margin-left: auto; margin-right: auto; top: 0px; max-width: calc(100% - 48px); background-color: rgba(0, 0, 0, 0);">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; background-color: rgba(0, 0, 0, 0);">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="transform: translate3d(0px, 50px, 0px); position: relative; background-color: rgba(0, 0, 0, 0);">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 28px; font-weight: 700; line-height: 1.3; color: rgb(49, 130, 246); margin-bottom: 30px; left: 0px; top: 0px; position: relative; display: block;">알면 좋은 금융</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 50px; font-weight: 700; line-height: 1.4; color: rgb(25, 31, 40); margin-bottom: 80px; position: relative;">이런 서비스도
+                                <br>한번 써보세요
+                                <br>
+                            </label>
+                        </div>
+                        <div data-base="AGridLayout" data-class="AGridLayout" class="AGridLayout-Style" style="width: auto; height: auto; position: relative;">
+                            <table cellpadding="0" cellspacing="0">
+                                <colgroup>
+                                    <col>
+                                    <col>
+                                </colgroup>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; max-width: 350px; margin: 0px 200px 100px 0px; flex-direction: column;">
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 120px; height: 120px; background-color: rgb(242, 244, 246); border-radius: 26px; margin-bottom: 30px; position: relative; place-content: center;">
+                                                        <div style="position: relative; box-sizing: border-box;">
+                                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 60px; height: 60px; position: relative; left: 0px; top: calc(50% - 30px);" data-center-y="true" src="Assets/image/tempsnip.png">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; margin-bottom: 6px; font-size: 20px; font-weight: 600; line-height: 1.6; color: rgb(51, 61, 75); position: relative;">숨은 정부지원금 찾기</label>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; font-size: 18px; font-weight: 500; line-height: 1.6; color: rgb(139, 149, 161); position: relative;">생각지도 못한 지원금이 기다리고 있어요.
+                                                        <br>간단한 정보를 입력 후 받을 수 있는
+                                                        <br>정부지원금을 확인해보세요.
+                                                        <br>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; max-width: 350px; margin: 0px 200px 100px 0px; flex-direction: column;">
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 120px; height: 120px;     background-color: #edccf8; border-radius: 26px; margin-bottom: 30px; position: relative; place-content: center;">
+                                                        <div style="position: relative; box-sizing: border-box;">
+                                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 60px; height: 60px; position: relative; left: 0px; top: calc(50% - 30px);" data-center-y="true" src="Assets/image/tempsnip1.png">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; margin-bottom: 6px; font-size: 20px; font-weight: 600; line-height: 1.6; color: rgb(51, 61, 75); position: relative;">카드 혜택 추천</label>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; font-size: 18px; font-weight: 500; line-height: 1.6; color: rgb(139, 149, 161); position: relative;">이제, 카드를 내 생활패턴에 맞게.
+                                                        <br>여러 카드를 한 번에 비교하고 내게 꼭 맞는 카드를 선택해 보세요.
+                                                        <br>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; max-width: 350px; margin: 0px 200px 100px 0px; flex-direction: column;">
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 120px; height: 120px;     background-color: #e8f3ff; border-radius: 26px; margin-bottom: 30px; position: relative; place-content: center;">
+                                                        <div style="position: relative; box-sizing: border-box;">
+                                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 60px; height: 60px; position: relative; left: 0px; top: calc(50% - 30px);" data-center-y="true" src="Assets/image/tempsnip2.png">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; margin-bottom: 6px; font-size: 20px; font-weight: 600; line-height: 1.6; color: rgb(51, 61, 75); position: relative;">토스프라임</label>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; font-size: 18px; font-weight: 500; line-height: 1.6; color: rgb(139, 149, 161); position: relative;">매일 토스와 함께 하신다면 가입해보세요.
+                                                        <br>가입비 월 5,900원으로 토스 간편결제 시 최대 4% 적립, 토스증권 국내주식 거래액 1억원까지 수수료 캐시백 혜택을 누려보세요.
+                                                        <br>(20만원까지 4%, 20~60만원까지 1% 구간 별 적립)
+                                                        <br>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; max-width: 350px; margin: 0px 200px 100px 0px; flex-direction: column;">
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 120px; height: 120px;     background-color: #aeefd5; border-radius: 26px; margin-bottom: 30px; position: relative; place-content: center;">
+                                                        <div style="position: relative; box-sizing: border-box;">
+                                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 60px; height: 60px; position: relative; left: 0px; top: calc(50% - 30px);" data-center-y="true" src="Assets/image/tempsnip3.png">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; margin-bottom: 6px; font-size: 20px; font-weight: 600; line-height: 1.6; color: rgb(51, 61, 75); position: relative;">ATM 현금 찾기</label>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; font-size: 18px; font-weight: 500; line-height: 1.6; color: rgb(139, 149, 161); position: relative;">카드 없이 휴대전화만 챙겨 나와도 됩니다.
+                                                        <br>토스앱만 있다면 근처 ATM에서 현금을 찾을 수 있어요.
+                                                        <br>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </div>
                     </div>
                 </div>

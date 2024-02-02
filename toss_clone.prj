@@ -258,6 +258,36 @@
                 "name": "section2_2_insu_02.jpg",
                 "relType": 1,
                 "path": ""
+              },
+              {
+                "type": 8,
+                "name": "section2_3_apt_01.jpg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "tempsnip.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "tempsnip1.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "tempsnip2.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "tempsnip3.png",
+                "relType": 1,
+                "path": ""
               }
             ]
           }
