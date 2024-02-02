@@ -27,8 +27,6 @@ MainView.prototype.onInitDone = function()
 	
 	this.hidden_view.addClass('visible');
 
-	//TODO:edit here
-
 };
 
 MainView.prototype.onActiveDone = function(isFirst)

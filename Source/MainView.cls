@@ -27,8 +27,6 @@ function MainView*onInitDone()
 	
 	this.hidden_view.addClass('visible');
 
-	//TODO:edit here
-
 };
 
 function MainView*onActiveDone(isFirst)
