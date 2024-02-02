@@ -16,14 +16,22 @@ extends AView;
 function MainView*init(context, evtListener)
 {
 	super.init(context, evtListener);
+	
+	var thisObj = this;
 
-	//TODO:edit here
+	window.addEventListener('scroll', function() {
+		console.log(window.scrollY);
+		if (window.scrollY >= 1000) {
+			thisObj.scrollInSection2();
+		}
+	});
 
 };
-
 function MainView*onInitDone()
 {
 	super.onInitDone();
+	
+	this.header_area.setStyle('position', 'fixed');
 	
 	this.hidden_view.addClass('visible');
 
@@ -37,14 +45,9 @@ function MainView*onActiveDone(isFirst)
 
 };
 
-function MainView*onMainViewScroll(comp, info, e)
+function MainView*scrollInSection2() 
 {
-
-	var thisObj = this;
-	
-	// section2
-	/*var section2Start = e.target.scrollTop - this.clientHeigth;
-	var section2ScrollViewH = this.clientHeight + this.section2.element.clientHeight;
-	console.log(section2Start, section2ScrollViewH);*/
-
+	this.findCompByGroup('section2').forEach((item) => {
+		item.addClass('on');
+	});
 };

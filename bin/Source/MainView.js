@@ -16,14 +16,22 @@ afc.extendsClass(MainView, AView);
 MainView.prototype.init = function(context, evtListener)
 {
 	AView.prototype.init.call(this, context, evtListener);
+	
+	var thisObj = this;
 
-	//TODO:edit here
+	window.addEventListener('scroll', function() {
+		console.log(window.scrollY);
+		if (window.scrollY >= 1000) {
+			thisObj.scrollInSection2();
+		}
+	});
 
 };
-
 MainView.prototype.onInitDone = function()
 {
 	AView.prototype.onInitDone.call(this);
+	
+	this.header_area.setStyle('position', 'fixed');
 	
 	this.hidden_view.addClass('visible');
 
@@ -37,14 +45,9 @@ MainView.prototype.onActiveDone = function(isFirst)
 
 };
 
-MainView.prototype.onMainViewScroll = function(comp, info, e)
+MainView.prototype.scrollInSection2 = function() 
 {
-
-	var thisObj = this;
-	
-	// section2
-	/*var section2Start = e.target.scrollTop - this.clientHeigth;
-	var section2ScrollViewH = this.clientHeight + this.section2.element.clientHeight;
-	console.log(section2Start, section2ScrollViewH);*/
-
+	this.findCompByGroup('section2').forEach((item) => {
+		item.addClass('on');
+	});
 };

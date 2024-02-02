@@ -36,6 +36,10 @@
 .a_hover
 {
 }
+.a_hover [data-group="a"]
+{
+	cursor: pointer !important;
+}
 .a_hover [data-group="a"]:hover
 {
 	text-decoration : underline !important;
@@ -52,6 +56,7 @@
 
 .icon_hover
 {
+	cursor: pointer !important;
 }
 .icon_hover div:hover > img
 {
@@ -66,5 +71,17 @@
 {
 	background-color: rgb(78, 89, 104) !important;
     color: rgb(255, 255, 255) !important;
+}
+
+.section_effect
+{
+	opacity: 0 !important;
+    transform: translatey(50px) !important;
+	transition: opacity 1s ease, transform 1s ease !important;
+}
+.section_effect.on
+{
+	opacity: 1 !important;
+    transform: translatey(0) !important;
 }
 
