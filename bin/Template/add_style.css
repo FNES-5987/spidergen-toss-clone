@@ -25,3 +25,46 @@
     transform: translate3d(0px, 0px, 0px) !important;
 }
 
+.header_hover
+{
+}
+.header_hover label:hover
+{
+	background-color: rgba(2,32,71,.05) !important;
+}
+
+.a_hover
+{
+}
+.a_hover [data-group="a"]:hover
+{
+	text-decoration : underline !important;
+}
+
+.blue_btn_hover
+{
+	transition: background .2s ease,color .1s ease !important;
+}
+.blue_btn_hover:hover
+{
+	background-color: #1b64da !important;
+}
+
+.icon_hover
+{
+}
+.icon_hover div:hover > img
+{
+	opacity: 1 !important;
+}
+
+.store_btn_hover
+{
+	transition: background .2s ease,color .1s ease !important;
+}
+.store_btn_hover:hover
+{
+	background-color: rgb(78, 89, 104) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
