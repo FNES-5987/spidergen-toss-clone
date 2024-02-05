@@ -21,7 +21,6 @@ function MainView*init(context, evtListener)
 
 	window.addEventListener('scroll', function() {
     const scrollY = window.scrollY;
-	console.log(scrollY);
     
     const scrollActions = [
         { position: 1000, action: () => thisObj.scrollInSection_rise(2) },
@@ -64,8 +63,6 @@ function MainView*onInitDone()
 	this.header_area.setStyle('position', 'fixed');
 	
 	this.hidden_view.addClass('visible');
-	
-	console.log(this.section7_left.element.style.transform);
 
 };
 
