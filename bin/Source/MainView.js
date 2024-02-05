@@ -21,7 +21,6 @@ MainView.prototype.init = function(context, evtListener)
 
 	window.addEventListener('scroll', function() {
     const scrollY = window.scrollY;
-	console.log(scrollY);
     
     const scrollActions = [
         { position: 1000, action: () => thisObj.scrollInSection_rise(2) },
@@ -64,8 +63,6 @@ MainView.prototype.onInitDone = function()
 	this.header_area.setStyle('position', 'fixed');
 	
 	this.hidden_view.addClass('visible');
-	
-	console.log(this.section7_left.element.style.transform);
 
 };
 
@@ -94,7 +91,7 @@ MainView.prototype.scrollInSection_op = function(scroll_pos, section_index, item
 		this.findCompByGroup(`section${section_index}_op${item_index}`).forEach((item)=>{
 			
 			if (item_index === 0) {
-				var transY = (window.scrollY - 12800) * 0.005;
+				var transY = (window.scrollY - 12800) * 0.01;
 				item.element.style.transform = `translateY(-${transY}%)`;
 				item.element.style.opacity = (window.scrollY - `${scroll_pos}`) * 0.002;
 			} else {

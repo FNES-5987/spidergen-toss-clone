@@ -91,8 +91,7 @@ function MainView*scrollInSection_op(scroll_pos, section_index, item_index)
 		this.findCompByGroup(`section${section_index}_op${item_index}`).forEach((item)=>{
 			
 			if (item_index === 0) {
-				var transY = (window.scrollY - 12800) * 0.005;
-				item.element.style.transform = `translateY(-${transY}%)`;
+				// transY 조절해서 올리기 구현 해야함
 				item.element.style.opacity = (window.scrollY - `${scroll_pos}`) * 0.002;
 			} else {
 				item.element.style.opacity = (window.scrollY - `${scroll_pos}`) * 0.002;
