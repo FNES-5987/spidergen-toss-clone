@@ -107,7 +107,7 @@
             <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; padding-top: 250px; padding-bottom: 165px; max-width: 1140px; margin-left: auto; margin-right: auto; background-color: rgba(0, 0, 0, 0);">
                 <div data-base="AView" data-class="AView" class="AView-Style" style="width: 92%; height: 100%; position: relative; margin-left: auto; margin-right: auto; max-width: calc(100% - 48px); top: 0px; background-color: rgba(0, 0, 0, 0);">
                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 1272px; position: relative; left: 0px; background-color: rgba(0, 0, 0, 0);">
-                        <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: 100%; height: auto; position: relative; z-index: 1; left: 0px; background-color: rgba(0, 0, 0, 0); transition-delay: 0s;" data-style="section_effect" data-group="section2">
+                        <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: 100%; height: auto; position: relative; z-index: 1; left: 0px; background-color: rgba(0, 0, 0, 0); transition-delay: 0.5s;" data-style="section_effect" data-group="section2">
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 28px; font-weight: 700; line-height: 1.3; color: rgb(49, 130, 246); margin-bottom: 30px; left: 0px; top: 0px; position: relative; display: block;">홈 · 소비</label>
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 50px; font-weight: 700; line-height: 1.4; color: rgb(25, 31, 40); position: relative;">내 돈 관리,
                                 <br>지출부터 일정까지
@@ -116,15 +116,15 @@
                             </label>
                         </div>
                         <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: static; background-color: rgba(0, 0, 0, 0);">
-                            <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: 600px; height: 936px; position: absolute; top: 0px; right: -104px; background-color: rgba(0, 0, 0, 0); transition-delay: 0.5s;" data-style="section_effect" data-group="section2">
+                            <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: 600px; height: 936px; position: absolute; top: 0px; right: -104px; background-color: rgba(0, 0, 0, 0); transition-delay: 1s;" data-style="section_effect" data-group="section2">
                                 <img data-base="AImage" data-class="AImage" class="AImage-Style" style="position: absolute;     top: 50%;     left: 50%;     width: 57%;     height: auto;     transform: translate3d(-50%, -50%, 0);" src="Assets/image/section1_1_home_01.png">
                                 <img data-base="AImage" data-class="AImage" class="AImage-Style" style="position: relative; width: 100%; height: 100%; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px;" src="Assets/image/iPhone12_Clay_Shadow.png">
                             </div>
-                            <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: 600px; height: 936px; position: absolute; bottom: 0px; left: -104px; background-color: rgba(0, 0, 0, 0); transition-delay: 1s;" data-style="section_effect" data-group="section2">
+                            <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: 600px; height: 936px; position: absolute; bottom: 0px; left: -104px; background-color: rgba(0, 0, 0, 0); transition-delay: 1.5s;" data-style="section_effect" data-group="section2">
                                 <img data-base="AImage" data-class="AImage" class="AImage-Style" style="position: absolute;     top: 50%;     left: 50%;     width: 57%;     height: auto;     transform: translate3d(-50%, -50%, 0);" src="Assets/image/section1_1_home_02.png">
                                 <img data-base="AImage" data-class="AImage" class="AImage-Style" style="position: relative; width: 100%; height: 100%; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px;" src="Assets/image/iPhone12_Clay_Shadow.png">
                             </div>
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style section_effect" style="font-size: 23px; font-weight: 600; line-height: 1.5; color: rgb(51, 61, 75); position: absolute; right: 30px; bottom: 166px; transform: translate3d(0px, 50px, 0px);" data-style="section_effect" data-group="section2">토스에 계좌와 카드를 연결해 보세요. <div>계좌 잔액, 대출·투자 내역은 기본, </div>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style section_effect" style="font-size: 23px; font-weight: 600; line-height: 1.5; color: rgb(51, 61, 75); position: absolute; right: 30px; bottom: 166px; transition-delay: 2s;" data-style="section_effect" data-group="section2">토스에 계좌와 카드를 연결해 보세요. <div>계좌 잔액, 대출·투자 내역은 기본, </div>
                                 <div>일자별 소비와 수입까지 한 번에 볼 수 있어요.</div>
                             </label>
                         </div>
@@ -136,15 +136,15 @@
             <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; margin-right: auto; margin-left: auto; max-width: 1140px; padding: 250px 0px; position: relative; background-color: rgba(0, 0, 0, 0);">
                 <div data-base="AView" data-class="AView" class="AView-Style" style="width: 92%; height: 100%; position: relative; margin-left: auto; margin-right: auto; top: 0px; max-width: calc(100% - 48px); background-color: rgba(0, 0, 0, 0);">
                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; background-color: rgba(0, 0, 0, 0);">
-                        <div data-base="AView" data-class="AView" class="AView-Style" style="transform: translate3d(0px, 50px, 0px); position: relative; background-color: rgba(0, 0, 0, 0);">
+                        <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="transform: translate3d(0px, 50px, 0px); position: relative; background-color: rgba(0, 0, 0, 0); transition-delay: 0.5s;" data-group="section3" data-style="section_effect">
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 28px; font-weight: 700; line-height: 1.3; color: rgb(49, 130, 246); margin-bottom: 30px; left: 0px; top: 0px; position: relative; display: block;">&nbsp;송금</label>
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 50px; font-weight: 700; line-height: 1.4; color: rgb(25, 31, 40); margin-bottom: 80px; position: relative;">간편하고 안전하게 <div>수수료는 평생 무료로, </div>
                                 <div>이런 송금 써보셨나요?</div>
                             </label>
                         </div>
-                        <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="display: flex; flex-flow: row nowrap; width: calc(100% + 30px); position: relative; align-items: center; margin-bottom: 150px; justify-content: space-between; margin-left: 0px;">
+                        <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style section_effect" style="display: flex; flex-flow: row nowrap; width: calc(100% + 30px); position: relative; align-items: center; margin-bottom: 150px; justify-content: space-between; margin-left: 0px; transition-delay: 1s;" data-group="section3" data-style="section_effect">
                             <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
-                                <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="max-width: calc(100% - 30px); justify-content: center; padding-left: 38px; height: 100%; position: relative; flex-flow: column nowrap; display: flex; width: 556px;">
+                                <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="max-width: calc(100% - 30px); justify-content: center; padding-left: 38px; height: 100%; position: relative; flex-flow: column nowrap; display: flex; width: 556px;" data-group="">
                                     <div style="position: relative; box-sizing: border-box;">
                                         <div data-base="AView" data-class="AView" class="AView-Style" style="margin-bottom: 10px; font-size: 20px; font-weight: 600; line-height: 1.4; color: rgb(49, 130, 246); align-items: center; display: flex; flex-direction: row; justify-content: flex-start; position: relative; width: auto; background-color: rgba(0, 0, 0, 0);">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="height: 24px; width: 24px; min-width: 24px; margin-right: 4px; position: relative; background-color: rgba(0, 0, 0, 0);"></div>
@@ -166,15 +166,15 @@
                                 </div>
                             </div>
                             <div style="position: relative; box-sizing: border-box;">
-                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: auto; position: relative; display: inline-block; text-align: left; white-space: normal; max-width: calc(100% - 30px); left: 0px; top: 0px;" src="Assets/image/section1_2_01.png">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style section_effect" style="width: 100%; height: auto; position: relative; display: inline-block; text-align: left; white-space: normal; max-width: calc(100% - 30px); left: 0px; top: 0px; transition-delay: 1.5s;" src="Assets/image/section1_2_01.png" data-group="section3" data-style="section_effect">
                             </div>
                         </div>
-                        <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="display: flex; flex-flow: row nowrap; width: calc(100% + 30px); position: relative; align-items: center; margin-bottom: 150px; justify-content: space-between;">
+                        <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style section_effect" style="display: flex; flex-flow: row nowrap; width: calc(100% + 30px); position: relative; align-items: center; margin-bottom: 150px; justify-content: space-between; transition-delay: 1s;" data-group="section3" data-style="section_effect">
                             <div style="position: relative; box-sizing: border-box;">
-                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: auto; position: relative; display: inline-block; text-align: left; white-space: normal; max-width: calc(100% - 30px); left: 0px; top: 0px;" src="Assets/image/section1_2_02.png">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style section_effect" style="width: 100%; height: auto; position: relative; display: inline-block; text-align: left; white-space: normal; max-width: calc(100% - 30px); left: 0px; top: 0px; transition-delay: 1.5s;" src="Assets/image/section1_2_02.png" data-group="section3" data-style="section_effect">
                             </div>
                             <div style="position: relative; box-sizing: border-box;">
-                                <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="max-width: calc(100% - 30px); justify-content: center; padding-left: 38px; height: 100%; position: relative; flex-flow: column nowrap; display: flex; width: 556px; left: 0px; top: 0px;">
+                                <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="max-width: calc(100% - 30px); justify-content: center; padding-left: 38px; height: 100%; position: relative; flex-flow: column nowrap; display: flex; width: 556px; left: 0px; top: 0px;" data-group="">
                                     <div style="position: relative; box-sizing: border-box;">
                                         <div data-base="AView" data-class="AView" class="AView-Style" style="margin-bottom: 10px; font-size: 20px; font-weight: 600; line-height: 1.4; color: rgb(49, 130, 246); align-items: center; display: flex; flex-direction: row; justify-content: flex-start; position: relative; width: auto; background-color: rgba(0, 0, 0, 0);">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="height: 24px; width: 24px; min-width: 24px; margin-right: 4px; position: relative; background-color: rgba(0, 0, 0, 0);"></div>
@@ -197,9 +197,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="display: flex; flex-flow: row nowrap; width: calc(100% + 30px); position: relative; align-items: center; margin-bottom: 150px; justify-content: space-between; margin-left: 0px;">
+                        <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style section_effect" style="display: flex; flex-flow: row nowrap; width: calc(100% + 30px); position: relative; align-items: center; margin-bottom: 150px; justify-content: space-between; margin-left: 0px; transition-delay: 1s;" data-group="section3" data-style="section_effect">
                             <div style="position: relative; box-sizing: border-box;">
-                                <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="max-width: calc(100% - 30px); justify-content: center; padding-left: 38px; height: 100%; position: relative; flex-flow: column nowrap; display: flex; width: 556px; left: 0px; top: 0px; overflow: hidden; white-space: normal;">
+                                <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="max-width: calc(100% - 30px); justify-content: center; padding-left: 38px; height: 100%; position: relative; flex-flow: column nowrap; display: flex; width: 556px; left: 0px; top: 0px; overflow: hidden; white-space: normal;" data-group="">
                                     <div style="position: relative; box-sizing: border-box;">
                                         <div data-base="AView" data-class="AView" class="AView-Style" style="margin-bottom: 10px; font-size: 20px; font-weight: 600; line-height: 1.4; color: rgb(49, 130, 246); align-items: center; display: flex; flex-direction: row; justify-content: flex-start; position: relative; width: auto; background-color: rgba(0, 0, 0, 0);">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="height: 24px; width: 24px; min-width: 24px; margin-right: 4px; position: relative; background-color: rgba(0, 0, 0, 0);"></div>
@@ -221,18 +221,18 @@
                                 </div>
                             </div>
                             <div style="position: relative; box-sizing: border-box;">
-                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: auto; position: relative; display: inline-block; text-align: left; white-space: normal; max-width: calc(100% - 30px); left: 0px; top: 0px;" src="Assets/image/section1_2_03.png">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style section_effect" style="width: 100%; height: auto; position: relative; display: inline-block; text-align: left; white-space: normal; max-width: calc(100% - 30px); left: 0px; top: 0px; transition-delay: 1.5s;" src="Assets/image/section1_2_03.png" data-group="section3" data-style="section_effect">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; background-color: rgba(0, 0, 0, 0); left: 0px; overflow: hidden; top: 0px;" data-group="section" id="MainView--section4">
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; background-color: rgba(0, 0, 0, 0); left: 0px; overflow: hidden; top: 0px; transition-delay: 0.5" data-group="section" id="MainView--section4">
             <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; padding-top: 250px; padding-bottom: 250px; max-width: 1140px; margin: auto; background-color: rgba(0, 0, 0, 0);">
                 <div data-base="AView" data-class="AView" class="AView-Style" style="width: 92%; height: 100%; position: relative; margin-left: auto; margin-right: auto; max-width: calc(100% - 48px); top: 0px; background-color: rgba(0, 0, 0, 0);">
                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 1272px; position: relative; left: 0px; background-color: rgba(0, 0, 0, 0);">
-                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; z-index: 1; left: 0px; background-color: rgba(0, 0, 0, 0); margin-bottom: 210px;" data-style="" data-group="">
+                        <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: 100%; height: auto; position: relative; z-index: 1; left: 0px; background-color: rgba(0, 0, 0, 0); margin-bottom: 210px;" data-style="section_effect" data-group="section4">
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 28px; font-weight: 700; line-height: 1.3; color: rgb(49, 130, 246); margin-bottom: 30px; left: 0px; top: 0px; position: relative; display: block;">대출</label>
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 50px; font-weight: 700; line-height: 1.4; color: rgb(25, 31, 40); position: relative;">여러 은행의 조건을
                                 <br>1분 만에
@@ -241,21 +241,21 @@
                             </label>
                         </div>
                         <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: static; background-color: rgba(0, 0, 0, 0);">
-                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 600px; height: 936px; position: absolute; top: 0px; right: -104px; background-color: rgba(0, 0, 0, 0);" data-style="" data-group="section2">
-                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="position: relative; width: 100%; height: 100%; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px;" src="Assets/image/iPhone12_Clay_Shadow.png">
+                            <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: 600px; height: 936px; position: absolute; top: 0px; right: -104px; background-color: rgba(0, 0, 0, 0); transition-delay: 0.75s" data-style="section_effect" data-group="section4">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="position: relative; width: 100%; height: 100%; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px;" src="Assets/image/iPhone12_Clay_Shadow.png" data-style="">
                             </div>
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; flex-direction: column;">
                                 <div style="position: relative; box-sizing: border-box;">
-                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="display: block; font-size: 48px; font-weight: 700; line-height: 1.5; color: rgb(51, 61, 75); position: relative;">한도는 높게,</label>
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style section_effect" style="display: block; font-size: 48px; font-weight: 700; line-height: 1.5; color: rgb(51, 61, 75); position: relative; transition-delay: 1s;" data-group="section4" data-style="section_effect">한도는 높게,</label>
                                 </div>
                                 <div style="position: relative; box-sizing: border-box;">
-                                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);     display: block;     font-size: 48px;     font-weight: 700;     line-height: 1.5;     color: rgb(51, 61, 75);">
+                                    <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); display: block; font-size: 48px; font-weight: 700; line-height: 1.5; color: rgb(51, 61, 75); transition-delay: 1.5s;" data-group="section4" data-style="section_effect">
                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="display: inline-block; font-size: 48px; font-weight: 700; line-height: 1.5; color: rgb(51, 61, 75); position: relative;">금리는</label>
                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; display: inline-block; color: rgb(139, 149, 161);">낮게,</label>
                                     </div>
                                 </div>
                                 <div style="position: relative; box-sizing: border-box;">
-                                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); display: block; font-size: 48px; font-weight: 700; line-height: 1.5; color: rgb(51, 61, 75); margin-bottom: 30px;">
+                                    <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); display: block; font-size: 48px; font-weight: 700; line-height: 1.5; color: rgb(51, 61, 75); margin-bottom: 30px; transition-delay: 2s;" data-group="section4" data-style="section_effect">
                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="display: inline-block; font-size: 48px; font-weight: 700; line-height: 1.5; color: rgb(51, 61, 75); position: relative;">부담은</label>
                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; display: inline-block; color: rgb(209, 214, 219); margin-top: 0px;">적게,</label>
                                     </div>
@@ -277,7 +277,7 @@
             <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; margin-right: auto; margin-left: auto; max-width: 1140px; padding: 250px 0px; position: relative; background-color: rgba(0, 0, 0, 0);">
                 <div data-base="AView" data-class="AView" class="AView-Style" style="width: 92%; height: 100%; position: relative; margin-left: auto; margin-right: auto; top: 0px; max-width: calc(100% - 48px); background-color: rgba(0, 0, 0, 0);">
                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 100%; position: relative; left: 0px; background-color: rgba(0, 0, 0, 0); top: 0px;">
-                        <div data-base="AView" data-class="AView" class="AView-Style" style="transform: translate3d(0px, 50px, 0px); position: relative; background-color: rgba(0, 0, 0, 0); display: block;">
+                        <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="transform: translate3d(0px, 50px, 0px); position: relative; background-color: rgba(0, 0, 0, 0); display: block; transition-delay: 0.5s;" data-style="section_effect" data-group="section5">
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 28px; font-weight: 700; line-height: 1.3; color: rgb(49, 130, 246); margin-bottom: 30px; left: 0px; top: 0px; position: relative; display: block;">신용</label>
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 50px; font-weight: 700; line-height: 1.4; color: rgb(25, 31, 40); position: relative; margin-bottom: 80px;">금융 생활의 첫 걸음,
                                 <br>신용점수를 미리
@@ -285,7 +285,7 @@
                                 <br>
                             </label>
                         </div>
-                        <div data-base="AGridLayout" data-class="AGridLayout" class="AGridLayout-Style" style="width: calc(100% + 30px); height: 863px; position: relative; display: block; left: 0px; top: 30px;">
+                        <div data-base="AGridLayout" data-class="AGridLayout" class="AGridLayout-Style section_effect" style="width: calc(100% + 30px); height: 863px; position: relative; display: block; left: 0px; top: 30px; transition-delay: 1s;" data-style="section_effect" data-group="section5">
                             <table cellpadding="0" cellspacing="0">
                                 <colgroup>
                                     <col>
@@ -347,7 +347,7 @@
             <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; padding-top: 250px; padding-bottom: 165px; max-width: 1140px; margin-left: auto; margin-right: auto; background-color: rgba(0, 0, 0, 0);">
                 <div data-base="AView" data-class="AView" class="AView-Style" style="width: 92%; height: 100%; position: relative; margin-left: auto; margin-right: auto; max-width: calc(100% - 48px); top: 0px; background-color: rgba(0, 0, 0, 0);">
                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 1272px; position: relative; left: 0px; background-color: rgba(0, 0, 0, 0);">
-                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; z-index: 1; left: 0px; background-color: rgba(0, 0, 0, 0);" data-style="" data-group="">
+                        <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="width: 100%; height: auto; position: relative; z-index: 1; left: 0px; background-color: rgba(0, 0, 0, 0); transition-delay: 0.5s;" data-style="section_effect" data-group="section6">
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 28px; font-weight: 700; line-height: 1.3; color: rgb(49, 130, 246); margin-bottom: 30px; left: 0px; top: 0px; position: relative; display: block;">투자</label>
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 50px; font-weight: 700; line-height: 1.4; color: rgb(25, 31, 40); position: relative;">투자,
                                 <br>모두가 할 수 있도록
@@ -386,14 +386,14 @@
                             </div>
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="position: absolute; top: 342px; left: 50%; width: 100%; max-width: 900px; padding-left: 20px; transform: translate3d(-50%, 0px, 0px); justify-content: space-between;">
                                 <div style="position: relative; box-sizing: border-box;">
-                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 23px; font-weight: 600; line-height: 1.5; color: rgb(51, 61, 75); max-width: 220px; position: relative;">이해하기 쉬운 용어
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style section_effect" style="font-size: 23px; font-weight: 600; line-height: 1.5; color: rgb(51, 61, 75); max-width: 220px; position: relative; transition-delay: 1.5s" data-group="section6" data-style="section_effect">이해하기 쉬운 용어
                                         <br>설명이 필요 없는
                                         <br>직관적인 화면 구성
                                         <br>
                                     </label>
                                 </div>
                                 <div style="position: relative; box-sizing: border-box;">
-                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 23px; font-weight: 600; line-height: 1.5; color: rgb(51, 61, 75); max-width: 220px; position: relative;">송금처럼 쉬운 구매 경험
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style section_effect" style="font-size: 23px; font-weight: 600; line-height: 1.5; color: rgb(51, 61, 75); max-width: 220px; position: relative; margin-left: 0px; transition-delay: 2s;" data-group="section6" data-style="section_effect">송금처럼 쉬운 구매 경험
                                         <br>그리고 투자 판단에
                                         <br>도움을 주는 콘텐츠까지
                                         <br>
@@ -508,14 +508,14 @@
             <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; margin-right: auto; margin-left: auto; max-width: 1140px; padding: 250px 0px; position: relative; background-color: rgba(0, 0, 0, 0);">
                 <div data-base="AView" data-class="AView" class="AView-Style" style="width: 92%; height: 100%; position: relative; margin-left: auto; margin-right: auto; top: 0px; max-width: calc(100% - 48px); background-color: rgba(0, 0, 0, 0);">
                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; background-color: rgba(0, 0, 0, 0);">
-                        <div data-base="AView" data-class="AView" class="AView-Style" style="transform: translate3d(0px, 50px, 0px); position: relative; background-color: rgba(0, 0, 0, 0);">
+                        <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="transform: translate3d(0px, 50px, 0px); position: relative; background-color: rgba(0, 0, 0, 0); transition-delay: 0.5s;" data-group="section8" data-style="section_effect">
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 28px; font-weight: 700; line-height: 1.3; color: rgb(49, 130, 246); margin-bottom: 30px; left: 0px; top: 0px; position: relative; display: block;">알면 좋은 금융</label>
                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 50px; font-weight: 700; line-height: 1.4; color: rgb(25, 31, 40); margin-bottom: 80px; position: relative;">이런 서비스도
                                 <br>한번 써보세요
                                 <br>
                             </label>
                         </div>
-                        <div data-base="AGridLayout" data-class="AGridLayout" class="AGridLayout-Style" style="width: auto; height: auto; position: relative;">
+                        <div data-base="AGridLayout" data-class="AGridLayout" class="AGridLayout-Style section_effect" style="width: auto; height: auto; position: relative; transition-delay: 1s;" data-group="section8" data-style="section_effect">
                             <table cellpadding="0" cellspacing="0">
                                 <colgroup>
                                     <col>
@@ -618,10 +618,10 @@
         <div data-base="AView" data-class="AView" class="AView-Style" style="position: relative;     width: 100%;     overflow: hidden;     padding: 100px 0 250px 0;     background-color: #000000;" id="MainView--section9">
             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; position: relative; left: 0px; place-content: center;">
                 <div style="position: relative; box-sizing: border-box;">
-                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="display: block; width: 100%; margin-bottom: 11px; position: relative;" src="Assets/image/section4_device.jpg">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style section_effect" style="display: block; width: 100%; margin-bottom: 11px; position: relative; transition-delay: 0.5s;" src="Assets/image/section4_device.jpg" data-group="section9" data-style="section_effect">
                 </div>
             </div>
-            <div data-base="AView" data-class="AView" class="AView-Style" style="position: relative; background-color: rgba(0, 0, 0, 0); text-align: center;">
+            <div data-base="AView" data-class="AView" class="AView-Style section_effect" style="position: relative; background-color: rgba(0, 0, 0, 0); text-align: center; transition-delay: 1.5s" data-group="section9" data-style="section_effect">
                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 60px; font-weight: 700; line-height: 1.4; color: rgb(255, 255, 255); margin-bottom: 21px; text-align: center; position: relative; display: block;">사업도 토스와 함께</label>
                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="font-size: 30px; font-weight: 700; line-height: 1.4; color: rgb(176, 184, 193); text-align: center; margin-bottom: 200px; position: relative;">사업을 시작하셨나요?
                     <br>사업의 시작부터 관리까지

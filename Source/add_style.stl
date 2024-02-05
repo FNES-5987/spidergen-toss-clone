@@ -8,6 +8,6 @@
     "blue_btn_hover": ".blue_btn_hover\n{\n\ttransition: background .2s ease,color .1s ease;\n}\n.blue_btn_hover:hover\n{\n\tbackground-color: #1b64da;\n}",
     "icon_hover": ".icon_hover\n{\n\tcursor: pointer;\n}\n.icon_hover div:hover > img\n{\n\topacity: 1;\n}",
     "store_btn_hover": ".store_btn_hover\n{\n\ttransition: background .2s ease,color .1s ease;\n}\n.store_btn_hover:hover\n{\n\tbackground-color: rgb(78, 89, 104);\n    color: rgb(255, 255, 255);\n}",
-    "section_effect": ".section_effect\n{\n\topacity: 0;\n    transform: translatey(50px);\n\ttransition: opacity 1s ease, transform 1s ease;\n}\n.section_effect.on\n{\n\topacity: 1;\n    transform: translatey(0);\n}\n"
+    "section_effect": ".section_effect\n{\n\topacity: 0;\n    transform: translatey(50px);\n\ttransition-duration: 1s;\n\ttransition-timing-function: ease-in-out\n}\n.section_effect.on\n{\n\topacity: 1;\n    transform: translatey(0);\n}\n"
   }
 }

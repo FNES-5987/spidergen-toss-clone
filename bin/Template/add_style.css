@@ -77,7 +77,8 @@
 {
 	opacity: 0 !important;
     transform: translatey(50px) !important;
-	transition: opacity 1s ease, transform 1s ease !important;
+	transition-duration: 1s !important;
+	transition-timing-function: ease-in-out
 }
 .section_effect.on
 {
